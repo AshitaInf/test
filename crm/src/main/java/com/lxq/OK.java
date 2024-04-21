@@ -10,4 +10,8 @@ public class OK {
     public static void main(String[] args) {
 
     }
+
+    public void Hi(){
+
+    }
 }
